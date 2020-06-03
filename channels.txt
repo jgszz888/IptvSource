@@ -103,12 +103,12 @@ TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=10FvSeid=1
 澳门有线2台,http://202.175.127.77/live/show/ch2/index.m3u8
 
 凤凰专栏,#genre#
-凤凰中文台3 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文台6,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文台 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文台,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=40FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=40FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
-凤凰资讯台1,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯台3 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯台4 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 
 台湾频道,#genre#
 TVBS新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
