@@ -22,6 +22,8 @@ CCTV-17 农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/8888888
 
 数字付费,#genre#
 新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+皇马TV,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 省级卫视,#genre#
 北京卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
@@ -107,6 +109,7 @@ TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 国家地理,rtmp://58.200.131.2/livetv/natlgeo
 星空卫视,rtmp://58.200.131.2/livetv/startv
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港有线新闻台 480,http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 澳门有线1台,http://202.175.127.77/live/show/ch1/index.m3u8
@@ -132,33 +135,32 @@ TVBS新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 中视,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 
-娱乐频道,#genre#
-超级体育,http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
-魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-皇马TV,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+NewTV,#genre#
+NewTV-超级体育,http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
+
+iHOT,#genre#
+爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+轮播频道,#genre#
 粤语残片,https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/403103/live_88547185_8335137.m3u8
 粤语蓝光,http://uee.me/dfTuV
 周星驰,http://33s.co/msV4
-香港怀旧电影,http://193.202.44.14/aqi168.php?id=4013103
-粤语原声,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
-解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-星空,rtmp://58.200.131.2:1935/livetv/startv
-德云社,http://diyp.top/agent/bilibili.php?id=896137
 周星驰,http://diyp.top/agent/bilibili.php?id=47917
-蜡笔小新,http://diyp.top/agent/bilibili.php?id=1895574
-海爷3号厅周星驰周润发刘德华,http://diyp.top/agent/bilibili.php?id=7814245
-海爷2号厅科幻巨兽动作,http://diyp.top/agent/bilibili.php?id=1929865
-蜡笔小新,http://diyp.top/agent/bilibili.php?id=27844
-海爷5号厅李连杰成龙古天乐,http://diyp.top/agent/bilibili.php?id=5456135
-海爷1号厅科幻巨兽灾难,http://diyp.top/agent/bilibili.php?id=1091450
-郭德纲单口相声,http://diyp.top/agent/bilibili.php?id=4183597
-海爷4号厅动画电影,http://diyp.top/agent/bilibili.php?id=5353745
-郭德纲于谦,http://diyp.top/agent/bilibili.php?id=3963033
+香港怀旧电影,http://193.202.44.14/aqi168.php?id=4013103
+德云社,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 德云社,http://diyp.top/agent/bilibili.php?id=308438
-海爷7号厅科幻片,http://diyp.top/agent/bilibili.php?id=7332534
+德云社,http://diyp.top/agent/bilibili.php?id=896137
+郭德纲单口相声,http://diyp.top/agent/bilibili.php?id=4183597
+郭德纲于谦,http://diyp.top/agent/bilibili.php?id=3963033
 郭德纲于谦,http://diyp.top/agent/bilibili.php?id=7035162
-海爷6号厅周星驰,http://diyp.top/agent/bilibili.php?id=6966375
 郭德纲于谦,http://diyp.top/agent/bilibili.php?id=5854051
-电视剧剧,http://diyp.top/agent/bilibili.php?id=1156962
+蜡笔小新,http://diyp.top/agent/bilibili.php?id=1895574
+蜡笔小新,http://diyp.top/agent/bilibili.php?id=27844
+海爷2号厅科幻巨兽动作,http://diyp.top/agent/bilibili.php?id=1929865
+海爷3号厅周星驰周润发刘德华,http://diyp.top/agent/bilibili.php?id=7814245
+海爷4号厅动画电影,http://diyp.top/agent/bilibili.php?id=5353745
+海爷5号厅李连杰成龙古天乐,http://diyp.top/agent/bilibili.php?id=5456135
+海爷6号厅周星驰,http://diyp.top/agent/bilibili.php?id=6966375
+海爷7号厅科幻片,http://diyp.top/agent/bilibili.php?id=7332534
