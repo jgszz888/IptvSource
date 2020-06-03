@@ -19,6 +19,14 @@ CCTV-17 农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/8888888
 
 河北,#genre#
 河北卫视,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河北卫视,http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+河北经济,http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+河北都市,http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+河北影视,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+河北少儿科教,http://weblive.hebtv.com/live/hbse_bq/index.m3u8
+河北公共,http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+河北农民,http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+
 
 数字付费,#genre#
 新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
