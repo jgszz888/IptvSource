@@ -113,20 +113,12 @@ TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid
 澳门有线2台,http://202.175.127.77/live/show/ch2/index.m3u8
 
 凤凰专栏,#genre#
-凤凰中文台1,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文台2,http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰中文台3 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文台4 HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-凤凰中文台5,http://117.169.120.143:8080/live/fhchinese/1.m3u8
 凤凰中文台6,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=40FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=40FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 凤凰资讯台1,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯台2,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰资讯台3 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰资讯台4 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-凤凰咨讯台5,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-凤凰资讯台6,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
-凤凰资讯台7,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226122/1.m3u8
 
 台湾频道,#genre#
 TVBS新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
@@ -134,11 +126,10 @@ TVBS新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 东森新闻,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 华视,http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8
-中天综合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+中天综合,http://192.154.103.75:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-八大综合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-华视,http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+中天娱乐,http://192.154.103.75:8080ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 中视,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 
 娱乐频道,#genre#
