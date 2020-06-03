@@ -29,7 +29,8 @@ CCTV-17 农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/8888888
 
 
 数字付费,#genre#
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
+金鹰纪实，http://ivi6.bupt.edu.cn/hls/gedocu.m3u8
 新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 皇马TV,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
@@ -177,7 +178,13 @@ CCTV-12社会与法,http://ivi6.bupt.edu.cn/hls/cctv12.m3u8
 CCTV-13新闻,http://ivi6.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-14少儿,http://ivi6.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-15音乐,http://ivi6.bupt.edu.cn/hls/cctv15.m3u8
-CCTV-NEWS,http://ivi6.bupt.edu.cn/hls/cctv16.m3u8
+CCTV-17农业农村HD,http://ivi6.bupt.edu.cn/hls/cctv17hd.m3u8
+CGTN,http://ivi6.bupt.edu.cn/hls/cctv16.m3u8
+CGTN-英文记录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8
+中国教育-1HD,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
+中国教育-3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8
+中国教育-4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8
+山东教育卫视,http://ivi.bupt.edu.cn/hls/sdetv.m3u8
 CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 北京卫视,http://ivi6.bupt.edu.cn/hls/btv1.m3u8
 北京卫视高清,http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8
@@ -190,7 +197,7 @@ CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 北京青年,http://ivi6.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi6.bupt.edu.cn/hls/btv9.m3u8
 北京卡酷少儿,http://ivi6.bupt.edu.cn/hls/btv10.m3u8
-北京纪实高清,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8
+北京冬奥纪实高清,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8
 湖南卫视,http://ivi6.bupt.edu.cn/hls/hunantv.m3u8
 湖南卫视高清,http://ivi6.bupt.edu.cn/hls/hunanhd.m3u8
 深圳卫视,http://ivi6.bupt.edu.cn/hls/sztv.m3u8
@@ -214,6 +221,7 @@ CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 天津卫视高清,http://ivi6.bupt.edu.cn/hls/tjhd.m3u8
 山西卫视,http://ivi6.bupt.edu.cn/hls/sxrtv.m3u8
 吉林卫视,http://ivi6.bupt.edu.cn/hls/jltv.m3u8
+延边卫视,http://ivi6.bupt.edu.cn/hls/ybtv.m3u8
 辽宁卫视,http://ivi6.bupt.edu.cn/hls/lntv.m3u8
 辽宁卫视高清,http://ivi6.bupt.edu.cn/hls/lnhd.m3u8
 东方卫视,http://ivi6.bupt.edu.cn/hls/dftv.m3u8
@@ -234,6 +242,7 @@ CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 重庆卫视高清,http://ivi6.bupt.edu.cn/hls/cqhd.m3u8
 兵团卫视,http://ivi6.bupt.edu.cn/hls/bttv.m3u8
 旅游卫视,http://ivi6.bupt.edu.cn/hls/lytv.m3u8
+三沙卫视,http://ivi6.bupt.edu.cn/hls/sstv.m3u8
 新疆卫视,http://ivi6.bupt.edu.cn/hls/xjtv.m3u8
 西藏卫视,http://ivi6.bupt.edu.cn/hls/xztv.m3u8
 内蒙古卫视,http://ivi6.bupt.edu.cn/hls/nmtv.m3u8
