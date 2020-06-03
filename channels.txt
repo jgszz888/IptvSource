@@ -1,23 +1,60 @@
 央视频道,#genre#
+CCTV-1 综合HD,http://ivi6.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-1 综合,http://ivi6.bupt.edu.cn/hls/cctv1.m3u8
 CCTV-1 综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-CCTV-2 经济,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-2 财经HD,http://ivi6.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV-2 财经,http://ivi6.bupt.edu.cn/hls/cctv2.m3u8
+CCTV-2 财经,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3 综艺HD,http://ivi6.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-3 综艺,http://ivi6.bupt.edu.cn/hls/cctv3.m3u8
 CCTV-3 综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-4 中文国际HD,http://ivi6.bupt.edu.cn/hls/cctv4hd.m3u8
+CCTV-4 中文国际,http://ivi6.bupt.edu.cn/hls/cctv4.m3u8
 CCTV-4 中文国际,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 CCTV-5 体育,http://tv.ncist.edu.cn:281/live/cctv5hd.flv
+CCTV-5+ 体育赛事HD,http://ivi6.bupt.edu.cn/hls/cctv5phd.m3u8
 CCTV-5+ 体育赛事,http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+CCTV-6 电影HD,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-6 电影,http://ivi6.bupt.edu.cn/hls/cctv6.m3u8
 CCTV-6 电影,http://tv.ncist.edu.cn:281/live/cctv6hd.flv
+CCTV-7 国防军事HD,http://ivi6.bupt.edu.cn/hls/cctv7hd.m3u8
+CCTV-7 国防军事,http://ivi6.bupt.edu.cn/hls/cctv7.m3u8
 CCTV-7 国防军事,http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
-CCTV-8 电视剧,
+CCTV-8 电视剧HD,http://ivi6.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-8 电视剧,http://ivi6.bupt.edu.cn/hls/cctv8.m3u8
+CCTV-9 纪录HD,http://ivi6.bupt.edu.cn/hls/cctv9hd.m3u8
+CCTV-9 纪录,http://ivi6.bupt.edu.cn/hls/cctv9.m3u8
 CCTV-9 记录,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-10 科教HD,http://ivi6.bupt.edu.cn/hls/cctv10hd.m3u8
+CCTV-10 科教,http://ivi6.bupt.edu.cn/hls/cctv10.m3u8
 CCTV-10 科教,http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-11 戏曲,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+CCTV-11 戏曲,http://ivi6.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12 社会与法HD,http://ivi6.bupt.edu.cn/hls/cctv12hd.m3u8
+CCTV-12 社会与法,http://ivi6.bupt.edu.cn/hls/cctv12.m3u8
 CCTV-12 社会与法,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-13 新闻,http://ivi6.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-13 新闻,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+CCTV-14 少儿HD,http://ivi6.bupt.edu.cn/hls/cctv14hd.m3u8
+CCTV-14 少儿,http://ivi6.bupt.edu.cn/hls/cctv14.m3u8
 CCTV-14 少儿,http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+CCTV-15 音乐,http://ivi6.bupt.edu.cn/hls/cctv15.m3u8
 CCTV-15 音乐,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-17 农业农村HD,http://ivi6.bupt.edu.cn/hls/cctv17hd.m3u8
 CCTV-17 农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CGTN HD,http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8
+CGTN,http://ivi6.bupt.edu.cn/hls/cctv16.m3u8
+CGTN-英文记录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8
+中国教育-1HD,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
+中国教育-1,http://ivi6.bupt.edu.cn/hls/cetv1.m3u8
+中国教育-3,http://ivi6.bupt.edu.cn/hls/cetv3.m3u8
+中国教育-4,http://ivi6.bupt.edu.cn/hls/cetv4.m3u8
+山东教育卫视,http://ivi6.bupt.edu.cn/hls/sdetv.m3u8
+
 
 河北,#genre#
+河北卫视HD,http://ivi6.bupt.edu.cn/hls/hebhd.m3u8
+河北卫视,http://ivi6.bupt.edu.cn/hls/hebtv.m3u8
 河北卫视,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 河北卫视,http://weblive.hebtv.com/live/hbws_bq/index.m3u8
 河北经济,http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
@@ -29,55 +66,129 @@ CCTV-17 农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/8888888
 
 
 数字付费,#genre#
-CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
-金鹰纪实，http://ivi6.bupt.edu.cn/hls/gedocu.m3u8
+CHC高清电影HD,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
+金鹰纪实HD,http://ivi6.bupt.edu.cn/hls/gedocu.m3u8
+纪实人文HD,http://ivi6.bupt.edu.cn/hls/docuchina.m3u8
 新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 皇马TV,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
+
 省级卫视,#genre#
+北京卫视HD,http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8
 北京卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+北京卫视,http://ivi6.bupt.edu.cn/hls/btv1.m3u8
 北京卫视,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
+天津卫视HD,http://ivi6.bupt.edu.cn/hls/tjhd.m3u8
+天津卫视,http://ivi6.bupt.edu.cn/hls/tjtv.m3u8
 天津卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 天津卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4966692255080753870/index.m3u8?channel-id=bestzb&Contentid=4966692255080753870&livemode=1&stbId=004003FF0037472509008422F153760C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=4966692255080753870&owchid=bestzb&owsid=4493204831455286336&AuthInfo=LPoUhpzbLKA77DJKw+RoOdp+Y9+2o1DeE5aesM/Rzx2fmmAu/Zh6hSJ79Pssv5xRCeMP64fkZ1OTO5rnBrDDVtd+IG42hAo4SoG/GCN9Sl4K/3WOqqtfMoKEA7k42GKH
-河南卫视,http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-河南卫视,http://33s.co/mbRY
-安微卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-山东卫视,http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
+河北卫视HD,http://ivi6.bupt.edu.cn/hls/hebhd.m3u8
+河北卫视,http://ivi6.bupt.edu.cn/hls/hebtv.m3u8
+湖南卫视HD,http://ivi6.bupt.edu.cn/hls/hunanhd.m3u8
+湖南卫视,http://ivi6.bupt.edu.cn/hls/hunantv.m3u8
 湖南卫视,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+江苏卫视HD,http://ivi6.bupt.edu.cn/hls/jshd.m3u8
 江苏卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+江苏卫视,http://ivi6.bupt.edu.cn/hls/jstv.m3u8
 江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+东方卫视HD,http://ivi6.bupt.edu.cn/hls/dfhd.m3u8
+东方卫视,http://ivi6.bupt.edu.cn/hls/dftv.m3u8
 东方卫视,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
+浙江卫视HD,http://ivi6.bupt.edu.cn/hls/zjhd.m3u8
 浙江卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+浙江卫视,http://ivi6.bupt.edu.cn/hls/zjtv.m3u8
 浙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-湖南卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+湖北卫视HD,http://ivi6.bupt.edu.cn/hls/hbhd.m3u8
+湖北卫视,http://ivi6.bupt.edu.cn/hls/hbtv.m3u8
 湖北卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000022140/index.m3u8?channel-id=bestzb&Contentid=5000000010000022140&livemode=1&stbId=004003FF0037507381008422F152063C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000022140&owchid=bestzb&owsid=4493204831455105314&AuthInfo=SpHIwnIE+H0N3+bKCGl/3PD8rBE3foxRYTSh3iGYUJZ6GNpZ+E47AWi696WsOzmjB6NbhsZYefT8ZbcFc6tce6sA1NT4/Xiib/5y9z97zsIfb91xmMHh4rcelTK1C5dP
+河南卫视HD,http://ivi6.bupt.edu.cn/hls/hnhd.m3u8
+河南卫视,http://ivi6.bupt.edu.cn/hls/hntv.m3u8
+河南卫视,http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河南卫视,http://33s.co/mbRY
+安徽卫视HD,http://ivi6.bupt.edu.cn/hls/ahhd.m3u8
+安徽卫视,http://ivi6.bupt.edu.cn/hls/ahtv.m3u8
+安微卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+山东卫视HD,http://ivi6.bupt.edu.cn/hls/sdhd.m3u8
+山东卫视,http://ivi6.bupt.edu.cn/hls/sdtv.m3u8
+山东卫视,http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
+山西卫视,http://ivi6.bupt.edu.cn/hls/sxrtv.m3u8
+辽宁卫视HD,http://ivi6.bupt.edu.cn/hls/lnhd.m3u8
+辽宁卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+辽宁卫视,http://ivi6.bupt.edu.cn/hls/lntv.m3u8
+辽宁卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5393821316758187099/index.m3u8?channel-id=bestzb&Contentid=5393821316758187099&livemode=1&stbId=004003FF0068820358008422F158596C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5393821316758187099&owchid=bestzb&owsid=4493204831455284991&AuthInfo=k5u8k07/ODnmQe0XrIWYxnpjNNud8PtA3jaoIF/fpZbLPV3325A81eU507NEowz0cEU1EbtmZdjU3xwdrJkgDzp9BMKdqyGoJXINUwMM8pF0T1GWf5v0oJkhWd8u/+ha
+江西卫视HD,http://ivi6.bupt.edu.cn/hls/jxhd.m3u8
+江西卫视,http://ivi6.bupt.edu.cn/hls/jxtv.m3u8
 江西卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4625292887079171688/index.m3u8?channel-id=bestzb&Contentid=4625292887079171688&livemode=1&stbId=004003FF0088804032008422F159412C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=4625292887079171688&owchid=bestzb&owsid=4493204831455285739&AuthInfo=PXm0oUTrbN0no3Jcn5mYSZJAmzcrizZc1OXLcyy1/dPnPdDXLeftZRG2M9cCjoD1G/71soli+cfNupc8bhk+jyAJ5IKiabBrtNE1FSFMqT7v/E6etbMd5CUeCGV49SfO
-东南卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-东南卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6058511135162408190/index.m3u8?channel-id=bestzb&Contentid=6058511135162408190&livemode=1&stbId=004003FF0080993552008422F151357C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6058511135162408190&owchid=bestzb&owsid=4493204831455128871&AuthInfo=szOsw/kxd1GjN3AebKbGB1BjtmnsxvODv3sEL9PITGtq278wW9Iu9nM6ltLpGObynOzHkDzRVCXpjz8SnlWEitwncNe9wxcQe/2RMKY1+NWi6kk5ZEOICU9isMlpJ9RT
+福建东南卫视HD,http://ivi6.bupt.edu.cn/hls/dnhd.m3u8
+福建东南卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+福建东南卫视,http://ivi6.bupt.edu.cn/hls/dntv.m3u8
+福建东南卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6058511135162408190/index.m3u8?channel-id=bestzb&Contentid=6058511135162408190&livemode=1&stbId=004003FF0080993552008422F151357C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6058511135162408190&owchid=bestzb&owsid=4493204831455128871&AuthInfo=szOsw/kxd1GjN3AebKbGB1BjtmnsxvODv3sEL9PITGtq278wW9Iu9nM6ltLpGObynOzHkDzRVCXpjz8SnlWEitwncNe9wxcQe/2RMKY1+NWi6kk5ZEOICU9isMlpJ9RT
 海峡卫视HD,http://www.dszbdq.cn/play/fjtv1.php?id=3
+厦门卫视,http://ivi6.bupt.edu.cn/hls/xmtv.m3u8
 厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv
+广东卫视HD,http://ivi6.bupt.edu.cn/hls/gdhd.m3u8
 广东卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+广东卫视,http://ivi6.bupt.edu.cn/hls/gdtv.m3u8
+深圳卫视HD,http://ivi6.bupt.edu.cn/hls/szhd.m3u8
+深圳卫视,http://ivi6.bupt.edu.cn/hls/sztv.m3u8
 深圳卫视,http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
 深圳卫视,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=22FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=22FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
-广西卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-广西卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=053&Provider_id=&Pcontent_id=index.m3u8
-黑龙江卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
-重庆卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-重庆卫视,http://101.71.255.229:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-辽宁卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-辽宁卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5393821316758187099/index.m3u8?channel-id=bestzb&Contentid=5393821316758187099&livemode=1&stbId=004003FF0068820358008422F158596C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5393821316758187099&owchid=bestzb&owsid=4493204831455284991&AuthInfo=k5u8k07/ODnmQe0XrIWYxnpjNNud8PtA3jaoIF/fpZbLPV3325A81eU507NEowz0cEU1EbtmZdjU3xwdrJkgDzp9BMKdqyGoJXINUwMM8pF0T1GWf5v0oJkhWd8u/+ha
-吉林卫视HD,http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+四川卫视HD,http://ivi6.bupt.edu.cn/hls/schd.m3u8
 四川卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+四川卫视,http://ivi6.bupt.edu.cn/hls/sctv.m3u8
+重庆卫视HD,http://ivi6.bupt.edu.cn/hls/cqhd.m3u8
+重庆卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+重庆卫视,http://ivi6.bupt.edu.cn/hls/cqtv.m3u8
+重庆卫视,http://101.71.255.229:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+云南卫视,http://ivi6.bupt.edu.cn/hls/yntv.m3u8
+广西卫视HD,http://ivi6.bupt.edu.cn/hls/gxhd.m3u8
+广西卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+广西卫视,http://ivi6.bupt.edu.cn/hls/gxtv.m3u8
+广西卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=053&Provider_id=&Pcontent_id=index.m3u8
+海南卫视HD,http://ivi6.bupt.edu.cn/hls/lyhd.m3u8
+海南卫视,http://ivi6.bupt.edu.cn/hls/lytv.m3u8
 海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
+三沙卫视,http://ivi6.bupt.edu.cn/hls/sstv.m3u8
+黑龙江卫视HD,http://ivi6.bupt.edu.cn/hls/hljhd.m3u8
+黑龙江卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+黑龙江卫视,http://ivi6.bupt.edu.cn/hls/hljtv.m3u8
+黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
+吉林卫视HD,http://ivi6.bupt.edu.cn/hls/jlhd.m3u8
+吉林卫视HD,http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+吉林卫视,http://ivi6.bupt.edu.cn/hls/jltv.m3u8
+延边卫视,http://ivi6.bupt.edu.cn/hls/ybtv.m3u8
+贵州卫视HD,http://ivi6.bupt.edu.cn/hls/gzhd.m3u8
+贵州卫视,http://ivi6.bupt.edu.cn/hls/gztv.m3u8
+陕西卫视,http://ivi6.bupt.edu.cn/hls/sxtv.m3u8
+宁夏卫视,http://ivi6.bupt.edu.cn/hls/nxtv.m3u8
+甘肃卫视,http://ivi6.bupt.edu.cn/hls/gstv.m3u8
+青海卫视,http://ivi6.bupt.edu.cn/hls/qhtv.m3u8
 青海卫视,http://suo.im/5unhRN
+新疆卫视,http://ivi6.bupt.edu.cn/hls/xjtv.m3u8
 新疆卫视,http://suo.im/6kgyEC
+兵团卫视,http://ivi6.bupt.edu.cn/hls/bttv.m3u8
+内蒙古卫视,http://ivi6.bupt.edu.cn/hls/nmtv.m3u8
+西藏卫视,http://ivi6.bupt.edu.cn/hls/xztv.m3u8
 
 北京频道,#genre#
-BTV-冬奥记录,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u
-BTV-冬奥记录,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=45FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=45FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
+北京卫视HD,http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8
+北京卫视,http://ivi6.bupt.edu.cn/hls/btv1.m3u8
+北京文艺HD,http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8
+北京文艺,http://ivi6.bupt.edu.cn/hls/btv2.m3u8
+北京科教,http://ivi6.bupt.edu.cn/hls/btv3.m3u8
+北京影视HD,http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8
+北京影视,http://ivi6.bupt.edu.cn/hls/btv4.m3u8
+北京财经,http://ivi6.bupt.edu.cn/hls/btv5.m3u8
+北京生活,http://ivi6.bupt.edu.cn/hls/btv7.m3u8
+北京青年,http://ivi6.bupt.edu.cn/hls/btv8.m3u8
+北京新闻HD,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8
+北京新闻,http://ivi6.bupt.edu.cn/hls/btv9.m3u8
+北京卡酷少儿,http://ivi6.bupt.edu.cn/hls/btv10.m3u8
+北京冬奥纪实HD,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8
+北京冬奥纪实,http://ivi6.bupt.edu.cn/hls/btv11.m3u8
+北京冬奥记录,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=45FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=45FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 
 广东频道,#genre#
 广东卫视,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=5FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=5FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
