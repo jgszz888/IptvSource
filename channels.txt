@@ -4,6 +4,7 @@ CCTV-2,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32212262
 CCTV-3,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 CCTV-5,http://tv.ncist.edu.cn:281/live/cctv5hd.flv
+CCTV-5+,http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
 CCTV-6,http://tv.ncist.edu.cn:281/live/cctv6hd.flv
 CCTV-7,http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
 CCTV-8,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -15,59 +16,61 @@ CCTV-13,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http:
 CCTV-14,http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
 CCTV-15,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CCTV-5+,http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
 CETV-1,http://player.ioioz.com/1786/0/mg/mg1m3u8.php?id=cetv1fhd
 
 河北,#genre#
 河北卫视,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 河北卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 
+数字付费,#genre#
+新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+
 省级卫视,#genre#
-北京卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-江苏卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-东方卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-浙江卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-安徽卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
-深圳卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-湖南卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-广东卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-黑龙江卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-重庆卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-辽宁卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-四川卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-广西卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-东南卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-贵州卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
-河南卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-湖北卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
-江西卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-山东卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
-海南卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
-宁夏卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000285103.m3u8
-甘肃卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294603.m3u8
-吉林卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000284703.m3u8
-青海卫视高清,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294703.m3u8
+北京卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+江苏卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+东方卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+浙江卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+安徽卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+深圳卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+湖南卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+广东卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+广西卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+黑龙江卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
+重庆卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+重庆卫视,http://101.71.255.229:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+辽宁卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+辽宁卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5393821316758187099/index.m3u8?channel-id=bestzb&Contentid=5393821316758187099&livemode=1&stbId=004003FF0068820358008422F158596C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5393821316758187099&owchid=bestzb&owsid=4493204831455284991&AuthInfo=k5u8k07/ODnmQe0XrIWYxnpjNNud8PtA3jaoIF/fpZbLPV3325A81eU507NEowz0cEU1EbtmZdjU3xwdrJkgDzp9BMKdqyGoJXINUwMM8pF0T1GWf5v0oJkhWd8u/+ha
+四川卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+云南卫视,http://edge1.yntv.cn/channels/yntv/ynws/m3u8:sd
+东南卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+贵州卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+河南卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+湖北卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+江西卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+山东卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+海南卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+宁夏卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000285103.m3u8
+甘肃卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294603.m3u8
+吉林卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000284703.m3u8
+青海卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294703.m3u8
 陕西卫视,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294403.m3u8
 北京卫视,http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
 湖南卫视,http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 广东卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 广西卫视,http://210.22.242.108/tlivecloud-cdn.ysp.cctv.cn/cctv/2000294201.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=053&Provider_id=&Pcontent_id=index.m3u8
-重庆卫视,http://101.71.255.229:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 四川卫视,http://101.71.255.229:6610/zjhs/2/10099/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 贵州卫视,http://101.71.255.229:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 深圳卫视,http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
-云南卫视,http://edge1.yntv.cn/channels/yntv/ynws/m3u8:sd
 吉林卫视,http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 青海卫视,http://suo.im/5unhRN
 新疆卫视,http://suo.im/6kgyEC
 海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
-海峡卫视高清,http://www.dszbdq.cn/play/fjtv1.php?id=3
+海峡卫视HD,http://www.dszbdq.cn/play/fjtv1.php?id=3
 金鹰纪实,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 天津卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 天津卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4966692255080753870/index.m3u8?channel-id=bestzb&Contentid=4966692255080753870&livemode=1&stbId=004003FF0037472509008422F153760C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=4966692255080753870&owchid=bestzb&owsid=4493204831455286336&AuthInfo=LPoUhpzbLKA77DJKw+RoOdp+Y9+2o1DeE5aesM/Rzx2fmmAu/Zh6hSJ79Pssv5xRCeMP64fkZ1OTO5rnBrDDVtd+IG42hAo4SoG/GCN9Sl4K/3WOqqtfMoKEA7k42GKH
-辽宁卫视,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5393821316758187099/index.m3u8?channel-id=bestzb&Contentid=5393821316758187099&livemode=1&stbId=004003FF0068820358008422F158596C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5393821316758187099&owchid=bestzb&owsid=4493204831455284991&AuthInfo=k5u8k07/ODnmQe0XrIWYxnpjNNud8PtA3jaoIF/fpZbLPV3325A81eU507NEowz0cEU1EbtmZdjU3xwdrJkgDzp9BMKdqyGoJXINUwMM8pF0T1GWf5v0oJkhWd8u/+ha
-黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
 东方卫视,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
 江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 浙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
@@ -90,7 +93,6 @@ CETV-1,http://player.ioioz.com/1786/0/mg/mg1m3u8.php?id=cetv1fhd
 广东体育,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=21FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=21FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 广东综艺4K,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=17FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=17FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=10FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=10FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
-凤凰卫视中文台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=40FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=40FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 BTV-冬奥记录,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=45FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=45FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 广州,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=2FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=2FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 广州新闻,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=9FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=9FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
@@ -119,10 +121,11 @@ TVB新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 凤凰专栏,#genre#
 凤凰卫视,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文台,http://125.210.152.18:9090/live/FHZW_1200.m3u8
-凤凰中文 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文 HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-凤凰中文,http://117.169.120.143:8080/live/fhchinese/1.m3u8
-凤凰中文,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文台 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文台 HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰中文台,http://117.169.120.143:8080/live/fhchinese/1.m3u8
+凤凰中文台,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=40FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=40FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
@@ -132,17 +135,17 @@ TVB新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 凤凰资讯,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226122/1.m3u8
 
 台湾频道,#genre#
-東森新聞,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-tvbs新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
+TVBS新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+东森新闻,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 华视,http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8
+中天综合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天娱乐,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 八大综合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 华视,http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 中视,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
-中天综合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
 娱乐频道,#genre#
 超级体育,http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
@@ -151,7 +154,6 @@ tvbs新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 粤语残片,https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/403103/live_88547185_8335137.m3u8
 粤语蓝光,http://uee.me/dfTuV
 周星驰,http://33s.co/msV4
-新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 香港怀旧电影,http://193.202.44.14/aqi168.php?id=4013103
 粤语原声,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
