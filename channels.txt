@@ -1,26 +1,24 @@
 央视频道,#genre#
-CCTV-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-CCTV-2,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-3,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-CCTV-5,http://tv.ncist.edu.cn:281/live/cctv5hd.flv
-CCTV-5+,http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
-CCTV-6,http://tv.ncist.edu.cn:281/live/cctv6hd.flv
-CCTV-7,http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
-CCTV-8,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-9,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-CCTV-10,http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
-CCTV-11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-CCTV-12,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-CCTV-13,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-CCTV-14,http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
-CCTV-15,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CETV-1,http://player.ioioz.com/1786/0/mg/mg1m3u8.php?id=cetv1fhd
+CCTV-1 综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-2 经济,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3 综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-4 中文国际,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV-5 体育,http://tv.ncist.edu.cn:281/live/cctv5hd.flv
+CCTV-5+ 体育赛事,http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+CCTV-6 电影,http://tv.ncist.edu.cn:281/live/cctv6hd.flv
+CCTV-7 国防军事,http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+CCTV-8 电视剧,
+CCTV-9 记录,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-10 科教,http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
+CCTV-11 戏曲,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+CCTV-12 社会与法,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-13 新闻,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+CCTV-14 少儿,http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+CCTV-15 音乐,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-17 农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 
 河北,#genre#
 河北卫视,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-河北卫视HD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 
 数字付费,#genre#
 新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -105,34 +103,30 @@ BTV-冬奥记录,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=45FvSei
 深圳卫视,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=22FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=22FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
 
 香港澳门,#genre#
-TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-TVB,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-澳门有线2台,http://202.175.127.77/live/show/ch2/index.m3u8
-澳门有线1台,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-澳门澳亚卫视台,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 国家地理,rtmp://58.200.131.2/livetv/natlgeo
 星空卫视,rtmp://58.200.131.2/livetv/startv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-有线新闻 480,http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+香港有线新闻台 480,http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+澳门有线1台,http://202.175.127.77/live/show/ch1/index.m3u8
+澳门有线2台,http://202.175.127.77/live/show/ch2/index.m3u8
 
 凤凰专栏,#genre#
-凤凰卫视,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文台,http://125.210.152.18:9090/live/FHZW_1200.m3u8
-凤凰中文台 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文台 HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-凤凰中文台,http://117.169.120.143:8080/live/fhchinese/1.m3u8
-凤凰中文台,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文台1,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文台2,http://125.210.152.18:9090/live/FHZW_1200.m3u8
+凤凰中文台3 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文台4 HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰中文台5,http://117.169.120.143:8080/live/fhchinese/1.m3u8
+凤凰中文台6,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=40FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=40FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
-凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-凤凰咨讯台,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-凤凰资讯,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
-凤凰资讯,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226122/1.m3u8
+凤凰资讯台1,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台2,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰资讯台3 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台4 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+凤凰咨讯台5,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰资讯台6,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8
+凤凰资讯台7,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226122/1.m3u8
 
 台湾频道,#genre#
 TVBS新闻台,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
