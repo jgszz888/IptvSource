@@ -312,12 +312,12 @@ iHOT,#genre#
 迪士尼 XD P7p,p8p://0198.02686.cc:16871/5d1a69760007a6f711bcec06f7be3200.ts
 奥林匹克国际频道,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 联合国频道,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-WFC 时装台1,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-WFC 时装台2,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-WFC 时装台3,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
-World Fashion International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+WFC 时装台 International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+WFC 时装台 International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+WFC 时装台 International,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
+WFC 时装台 International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
 World Fashion Россия,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
-HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+HD Fashion & Lifestyle,http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 HD Fashion & Lifestyle ,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 法国 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 法国 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
