@@ -75,6 +75,11 @@ CGTN-阿拉伯语,http://live.cgtn.com/1000a/prog_index.m3u8
 河北公共,http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
 河北农民,http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
 河北三佳购物,http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
+石家庄新闻综合,http://stream.sjzntv.cn/1/playlist.m3u8?_upt=b5341c381591520646
+石家庄都市,http://stream.sjzntv.cn/4_sd/1591510595/1591513847262.ts?_upt=7de3b0b91591521047
+石家庄生活,http://stream.sjzntv.cn/3_sd/1591510589/1591513931306.ts?_upt=3e5496ba1591521131
+石家庄娱乐,http://stream.sjzntv.cn/2_sd/1591513149/1591514010321.ts?_upt=7d41722f1591521210
+
 
 
 数字付费,#genre#
@@ -312,6 +317,7 @@ Channel [V],rtmp://58.200.131.2/livetv/channelv
 FOX 体育 1 HD,rtmp://xiaoyu.speedws.com/sat/tv731
 FOX 体育 2 HD,rtmp://xiaoyu.speedws.com/sat/tv741
 WIN综合台,rtmp://xiaoyu.speedws.com/sat/tv761
+中华卫视,http://pull.leshantangjt.com/live/playlist.m3u8?wsSession=86e477e7afd7d4bc26366bde-159146739155667&wsIPSercert=6a86c5aab08e138fee58d85ff2db11ef&wsMonitor=0
 
 NewTV,#genre#
 NewTV-超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
@@ -1003,6 +1009,35 @@ Channel 8 P7p,p8p://0198.02686.cc:16871/5d1a6960000d01a711bc9775a84751d1.ts
 
 广播,#genre#
 广播,http://ls.qingting.fm/live/1222.m3u8
+中国之声,http://live.xmcdn.com/live/1065/64.m3u8
+
+经济之声,http://live.xmcdn.com/live/1066/64.m3u8
+CRI中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
+CRI1012交通广播,http://live.xmcdn.com/live/2399/64.m3u8
+CRI环球资讯,http://live.xmcdn.com/live/1040/64.m3u8
+CRI中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CNR音乐之声，http://live.xmcdn.com/live/12/64.m3u8
+CNR经典音乐广播,http://live.xmcdn.com/live/13/64.m3u8
+CNR文艺之声,http://live.xmcdn.com/live/38/64.m3u8
+CNR中华之声,http://live.xmcdn.com/live/14/64.m3u8
+CNR神州之声,http://live.xmcdn.com/live/15/64.m3u8
+CNR阅读之声,http://live.xmcdn.com/live/42/64.m3u8
+CNR老年之声,http://live.xmcdn.com/live/39/64.m3u8
+CNR民族之声,http://live.xmcdn.com/live/17/64.m3u8
+CRI轻松调频,http://live.xmcdn.com/live/1042/64.m3u8
+河北新闻广播,http://live.xmcdn.com/live/494/64.m3u8
+河北音乐广播,http://live.xmcdn.com/live/496/64.m3u8
+河北交通广播,http://live.xmcdn.com/live/494/64.m3u8
+河北私家车广播907,http://live.xmcdn.com/live/1115/64.m3u8
+河北文化旅游广播,http://live.xmcdn.com/live/501/64.m3u8
+石家庄新闻广播,http://live.xmcdn.com/live/502/64.m3u8
+石家庄音乐广播,http://live.xmcdn.com/live/504/64.m3u8
+石家庄交通广播,http://live.xmcdn.com/live/505/64.m3u8
+石家庄汽车音乐广播1029,http://live.xmcdn.com/live/1743/64.m3u8
+FM999犀牛电台,http://live.xmcdn.com/live/2572/64.m3u8
+中国华艺广播,http://live.xmcdn.com/live/2432/64.m3u8
+怀旧金曲965,http://live.xmcdn.com/live/2449/64.m3u8
+动感952,http://live.xmcdn.com/live/2263/64.m3u8
 
 20200607,#genre#
 卫视
