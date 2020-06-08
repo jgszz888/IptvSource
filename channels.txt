@@ -141,6 +141,7 @@ CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 精品剧场,http://125.210.152.18:9090/live/JPJC.m3u8
 风尚音乐,http://125.210.152.18:9090/live/FSYY.m3u8
 留学世界,http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+极速汽车,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
 漫画世界,http://125.210.152.18:9090/live/MYSJ.m3u8
 Channel [V],rtmp://58.200.131.2:1935/livetv/channelv
 Channel [V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
@@ -152,9 +153,11 @@ Channel [V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 东方财经 浦东,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
 奥林匹克频道HD,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 五星体育HD,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+博斯网球,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 CRI,http://118.123.60.9:8114/LIVES/Fsv_otype=2&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=82&Provider_id=&Pcontent_id=index.m3u8
 BABY亲子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
@@ -468,9 +471,31 @@ NewTV-精品体育,http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
 NewTV-超级体育,http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
 NewTV-精品记录,http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8#
 NewTV-精品记录,http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
-
 黑莓电影,http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 黑莓动画,http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
+
+IPTV,#genre#
+iPanda,http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
+IPTV-5+,http://117.156.28.119/270000001111/1110000054/index.m3u8
+IPTV-8+,http://117.156.28.119/270000001111/1110000057/index.m3u8
+IPTV-军事评论,http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
+IPTV-军旅剧场,http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
+IPTV-动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
+IPTV-动画王国,http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
+IPTV-古装剧场,http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
+IPTV-家庭剧场,http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
+IPTV-惊悚悬疑,http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
+IPTV-明星大片,http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
+IPTV-法治,http://117.156.28.119/270000001111/1110000111/index.m3u8
+IPTV-海外剧场,http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
+IPTV-爱情喜剧,http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
+IPTV-相声小品,http://117.156.28.119/270000001111/1110000112/index.m3u8
+IPTV-精品大剧,http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
+IPTV-精品电影,http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
+IPTV-精品综艺,http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
+IPTV-精品记录,http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
+IPTV-谍战剧场,http://117.156.28.119/270000001111/1110000110/index.m3u8
+IPTV-金牌综艺,http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
 
 iHOT,#genre#
 iHOT-爱院线HD,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
