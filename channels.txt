@@ -76,6 +76,18 @@ CGTN-法语,http://live.cgtn.com/1000f/prog_index.m3u8
 CGTN-西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN-阿拉伯语,http://live.cgtn.com/1000a/prog_index.m3u8
 
+4K 高清,#genre#
+CCTV-4K UHD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV-4K UHD,http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
+纯享4K UHD,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K UHD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
+BesTV-4K UHD,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+BesTV-4K UHD,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+BesTV-4K UHD,http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
+高清HD大众影视,http://39.134.52.207/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
+高清HD家庭剧场,http://39.134.52.197/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
+高清HD家庭影院,http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
+高清HD卡通剧场,http://39.134.52.179/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
 
 河北,#genre#
 河北卫视HD,http://ivi6.bupt.edu.cn/hls/hebhd.m3u8
