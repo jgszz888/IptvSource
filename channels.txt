@@ -157,8 +157,8 @@ Channel [V],rtmp://58.200.131.2:1935/livetv/channelv
 Channel [V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 新视觉HD,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉HD,http://125.210.152.18:9090/live/XSJHD_H265.m3u8
-京视剧场[1047*576],http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
-置业频道[1047*576],http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
+京视剧场,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+置业频道,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
 东方财经 浦东,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
 奥林匹克频道HD,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
@@ -369,6 +369,9 @@ BABY亲子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 香港澳门,#genre#
 TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=10FvSeid=1Fsv_filetype=1Fsv_ctype=LIVESFsv_cid=0Fsv_chan_hls_se_idx=10FvSeid=1Fsv_ctype=LIVESFsv_otype=1Provider_id=Pcontent_id=.m3u8
+TVB 翡翠明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+TVB 翡翠明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB 翡翠综合,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 星空卫视,rtmp://ivi6.bupt.edu.cn:1935/livetv/startv
@@ -386,9 +389,6 @@ TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=10FvSeid=1
 香港耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 香港耀才财经台,http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-翡翠明珠台[853*480],http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-翡翠明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠综合,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 澳门卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门卫星,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门有线-1,http://202.175.127.77/live/show/ch1/index.m3u8
@@ -410,7 +410,7 @@ TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?Fsv_chan_hls_se_idx=10FvSeid=1
 凤凰资讯台 HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 凤凰电影台,rtmp://58.200.131.2/livetv/fhdy
-凤凰香港[1920*1080],http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+凤凰香港台,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 台湾频道,#genre#
 TVBS HD,http://153.99.180.70:5021/live/349/playlist.m3u8
