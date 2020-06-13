@@ -161,7 +161,9 @@ Channel [V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 置业频道,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
 东方财经 浦东,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
-奥林匹克频道HD,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+奥林匹克频道 (UHD),http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+奥林匹克频道 (HD),http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+奥林匹克频道 (SD),http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 魅力足球,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 五星体育HD,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
@@ -388,7 +390,12 @@ TVB 翡翠综合,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&F
 香港有线财经资讯台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 香港耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 香港耀才财经台,http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
+香港耀才财经台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+澳门 Canal,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳门 Canal,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 澳门卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门卫星,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门有线-1,http://202.175.127.77/live/show/ch1/index.m3u8
@@ -579,13 +586,18 @@ ENNE电影,http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014
 动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 动物星球 P7p,p8p://0198.02686.cc:16871/5d1a6965000da65111bcab275e29e995.ts
+天映频道东南亚,http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+天映频道东南亚,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+天映频道东南亚,http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+
+
 福克斯动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 福克斯动作电影,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 华纳电视,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 新加坡|8频道HD,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡|8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 亚美电视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-法加拿大国家电视台中文,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+加拿大国家电视台中文,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 迪士尼 P7p,p8p://0198.02686.cc:16871/5d1a697500003e7211bce6394f3f445a.ts
 迪士尼 Junior,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 迪士尼 Junior P7p,p8p://0198.02686.cc:16871/5d1a6975000b89e211bce91ded33f2df.ts
@@ -602,18 +614,26 @@ HD Fashion & Lifestyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 法国 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 法国 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+MTV音乐东南亚,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 加利福尼亚音乐频道,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 加利福尼亚音乐频道,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 Music Box (SK),http://80.94.54.42/tvnasa/stream/playlist.m3u8
 Music Top HD,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 Russian Music Box,http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-法国 Ⅰ 巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-法国 Ⅰ 巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+法国Ⅰ巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+法国Ⅰ巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 美国Ⅰ红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-德国 Ⅰ 超级游艇,http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+德国Ⅰ超级游艇,http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 CN 卡通网络 P7p,p8p://0198.02686.cc:16871/5d1a696d0001979411bcc7516aeb2236.ts
+迪士尼 Junior,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+迪士尼 Junior,http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+Bollywood Classic,http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+菲律宾,#genre#
+CNN 菲律宾,Philippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+CNN 菲律宾,http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
+DWKC-TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 
 直播中国,#genre#
 全国风景轮训总览[1280*720],https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
