@@ -90,6 +90,10 @@ BesTV-4K UHD,http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
 高清HD家庭影院,http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 高清HD卡通剧场,http://39.134.52.179/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
 
+英超测试,#genre#
+英超,https://hm.thlovelq.com/live/stream-355310.m3u8
+西甲,https://hm.thlovelq.com/live/stream-441790.m3u8
+
 河北,#genre#
 河北卫视HD,http://ivi6.bupt.edu.cn/hls/hebhd.m3u8
 河北卫视HD,http://live5.plus.hebtv.com/hbws/playlist.m3u8?_upt=63af8c381591695281
@@ -1574,9 +1578,6 @@ FM999犀牛电台,http://live.xmcdn.com/live/2572/64.m3u8
 北京长书广播,http://audiolive.rbc.cn:1935/live/fm1043/96K/tzwj_video.m3u8
 北京文艺戏曲,http://123.56.16.201:1935/live/fm1051/96K/tzwj_video.m3u8
 北京欢乐时光,http://123.56.16.201:1935/live/fm1065/96K/tzwj_video.m3u8
-
-英超测试,#genre#
-英超,https://hm.thlovelq.com/live/stream-355310.m3u8
 
 测试国外,#genre#
 新加坡|亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
