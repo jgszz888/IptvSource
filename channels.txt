@@ -6186,3 +6186,6 @@ Channel 8 P7p,p8p://0198.02686.cc:16871/5d1a6960000d01a711bc9775a84751d1.ts
 4427-ZO!34,http://558bd16067b67.streamlock.net/rtvemmen_tv/rtvemmen_tv/playlist.m3u8
 4428-ZO-NWS,http://media.streamone.net/hlslive/account=FjJBFsIbBtw2/livestream=1QJFCqsQeMwQ/events.m3u8
 4429-Zweina Baladna,http://213.162.202.13:216
+
+英超,#genre#
+英超1，https://hm.thlovelq.com/live/stream-355310.m3u8?txSecret=de129200e4c9d97c42d0b89e7e1cb6a2&txTime=5fdf4b55
