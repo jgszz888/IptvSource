@@ -58,6 +58,7 @@ CCTV-17 农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/8888888
 中国教育-3,http://ivi6.bupt.edu.cn/hls/cetv3.m3u8
 中国教育-4,http://ivi6.bupt.edu.cn/hls/cetv4.m3u8
 山东教育卫视,http://ivi6.bupt.edu.cn/hls/sdetv.m3u8
+妈阁是座城,https://cdn7.pztv.ca/upload/20190809/238b7916f355b23033c7c043c5dc91ed/238b7916f355b23033c7c043c5dc91ed.m3u8
 
 对外平台,#genre#
 重庆国际,http://219.153.252.50/PLTV/88888888/224/3221225623/chunklist.m3u8
