@@ -1,0 +1,11 @@
+   {
+      "key": "影视之家",
+      "name": "影视之家",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n  \"站名\": \"影视之家\",\r\n  \"热门推荐\": \"30\",\r\n  \"分类url\": \"https://www.yszj.tv/vodshow/{cateId}--{by}------{catePg}---{year}.html\",\r\n  \"分类\": \"电影$1#电视剧$2#综艺$3#动漫$4#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#泰剧$20\",\r\n  \"副标题\": \"pic-text text-right\\\"><b>&&</b>\",\r\n  \"简介\": \"display: none;\\\">&&</span>\",\r\n  \"线路数组\": \"dpplay pull-right\\\">&&</ul>\",\r\n  \"线路标题\": \"data-toggle=\\\"tab\\\">&&</a>[排序:极速>*]\",\r\n  \"筛选\": \"1\",\r\n  \"地区\": \"0\",\r\n  \"剧情\": \"0\",\r\n  \"年份\": \"2000-2022\",\r\n  \"排序\": \"时间排序$time#人气排序$hits#评分排序$score\"\r\n},\r\n"
+    }
