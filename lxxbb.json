@@ -33,14 +33,15 @@
             }
         },
         {
-            "key": "csp_APPTT",
-            "name": "🗺图图",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+            "key": "AppTT",
+            "name": "🐰┃图图┃影视",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/IptvSource/master/cs.jar;md5;a5e5361e0955fa99715b720aa13a5fce"
         },
         {
             "key": "视觉",
@@ -81,9 +82,10 @@
         },
         {
             "key": "csp_xBPQ_蛋蛋赞",
-            "name": "🤍Lem专属 蛋蛋赞(XBPQ)",
+            "name": "蛋蛋赞",
             "type": 3,
             "api": "csp_xBPQ",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -272,6 +274,24 @@
                 "分类": "电影&电视剧&综艺&动漫&日韩&欧美&bilibili&午夜剧场",
                 "分类值": "1&2&3&4&15&16&29&40",
                 "分类url": "https://tkznp.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html;;val"
+            }
+        },
+        {
+            "key": "q2iyou",
+            "name": "🔥qiyou",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "ext": {
+                "站名": "奇优影院",
+                "主页url": "http://www.qiyoudy1.com",
+                "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$http://www.qiyoudy1.com/",
+                "搜索url": "http://www.qiyoudy1.com/search.php;post;searchword={wd}",
+                "搜索模式": "1",
+                "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html",
+                "跳转播放链接": "http://api.667dy.com:81/hls/playA.php?vid=+id=\"playbox\">*src=\"http://api.chexin.cc/content.php?vid=&&*amp",
+                "二次跳转播放链接": "hls.loadSource(\"&&\")",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#福利$6"
             }
         },
         {
