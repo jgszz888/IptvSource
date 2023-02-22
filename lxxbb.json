@@ -86,9 +86,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
             "api": "csp_XBPQ",
-            "ext": "请求头:电脑,搜索url:https://v.t-ui.cn/index.php/vod/search.html?wd={wd};;kmva",
-            "jar": "http://smallmi.xiaohewanwan.love:63/jar/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991"
+            "ext": "请求头:电脑,搜索url:https://v.t-ui.cn/index.php/vod/search.html?wd={wd};;Tkmva,跳转播放链接:https://v.t-ui.cn/addons/dp/player/dp.php?key=0&+&id=+\"id\":\"&&\"+&url=+link_pre*url\":\"&&\",二次跳转播放链接: \"url\"*\"&&\""
         },
         {
             "key": "csp_AppTT",
