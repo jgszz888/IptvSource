@@ -2244,6 +2244,11 @@
             "url": "./lives.txt"
         },
         {
+            "name": "🍁｜直播",
+            "url": "https://xn--11x805d.live/TVbox/live/jun.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
             "name": "🐯｜肥猫",
             "url": "http://我不是.肥猫.love:63/TV/tvzb.txt"
         },
