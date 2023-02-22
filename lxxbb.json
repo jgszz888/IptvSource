@@ -11,13 +11,6 @@
             "filterable": 0
         },
         {
-            "key": "drpy_js_荐片",
-            "name": "荐片影院｜JS",
-            "type": 3,
-            "api": "./drpy.min.js",
-            "ext": "./荐片.js"
-        },
-        {
             "key": "csp大豆",
             "name": "⭐大豆",
             "type": 3,
@@ -87,6 +80,17 @@
             }
         },
         {
+            "key": "csp_search_云镜搜",
+            "name": "🐙️云镜搜",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "api": "csp_XBPQ",
+            "ext": "请求头:电脑,搜索url:https://v.t-ui.cn/index.php/vod/search.html?wd={wd};;kmva",
+            "jar": "http://smallmi.xiaohewanwan.love:63/jar/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991"
+        },
+        {
             "key": "csp_AppTT",
             "name": "图图影视┃SP",
             "type": 3,
@@ -128,6 +132,14 @@
                 "二次跳转播放链接": "https://b.umkan.cc/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }
+        },
+        {
+            "key": "AList",
+            "name": "小米",
+            "type": "3",
+            "api": "csp_AList",
+            "searchable": "1",
+            "ext": "https://124.222.63.31:30094/down/iO5zY0yBUOLm.json"
         },
         {
             "key": "csp_xpath_yinfans",
@@ -286,18 +298,15 @@
         },
         {
             "key": "q2iyou",
-            "name": "🔥qiyou",
+            "name": "qiyou",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
             "ext": {
-                "站名": "奇优影院",
-                "主页url": "http://www.qiyoudy1.com",
-                "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$http://www.qiyoudy1.com/",
+                "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Origin$http://api.667dy.com:81",
                 "搜索url": "http://www.qiyoudy1.com/search.php;post;searchword={wd}",
                 "搜索模式": "1",
-                "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html",
-                "跳转播放链接": "http://api.667dy.com:81/hls/playA.php?vid=+id=\"playbox\">*src=\"http://api.chexin.cc/content.php?vid=&&*amp",
+                "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html;;varT",
+                "跳转播放链接": "http://api.667dy.com:81/hls/playA.php?vid=+<iframe*src=\"http://api.chexin.cc/content.php?vid=&&\"[替换:1##-9]",
                 "二次跳转播放链接": "hls.loadSource(\"&&\")",
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#福利$6"
             }
