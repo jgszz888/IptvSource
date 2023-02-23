@@ -80,45 +80,31 @@
             }
         },
         {
-            "key": "爱影",
-            "name": "👓爱影",
+            "key": "xcys",
+            "name": "✨爱影影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://124.222.63.31:30094/down/5JxXYREPlZ2K.jar;md5;9e86cdb778918b65275d0e36c92451fa",
-            "ext": {
-                "站名": "爱影视",
-                "主页url": "https://www.aiyingshis.com/",
-                "图片": "data-original=&&\"",
-                "副标题": "<div class=\"module-item-note\">&&</div>",
-                "线路数组": "data-dropdown-value=&&</div>[排序:蓝光LZ]",
-                "线路标题": "<span>&&</small>",
-                "播放数组": "<div class=\"module-blocklist\"&&</div>",
-                "导演": "导演：</span>&&</div>",
-                "主演": "主演：</span>&&</div>",
-                "简介": "剧情：</span>&&</span>",
-                "分类": "蓝光$37#电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "https://www.aiyingshis.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;val",
-                "跳转播放链接": "https://lala.dianyingwang.top/?url=+link_pre*url\":\"&&\"",
-                "二次跳转播放链接": "https://lala.dianyingwang.top/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
-                "三次跳转播放链接": "\"url\"*\"&&\""
-            }
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "免嗅:1,分类urlhttps://www.aiyingshis.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "速搜影院",
-            "name": "️🐙️速搜影院",
+            "name": "️✈️速搜",
             "type": 3,
             "api": "XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zz_1.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
+            "jar": "https://124.222.63.31:30094/down/5JxXYREPlZ2K.jar;md5;9e86cdb778918b65275d0e36c92451fa",
             "ext": {
-                "数组": "zmovo-full-banner-bg2&&zmovo-team-title pcxs",
+                "数组": "zmovo-full-banner-bg1&&zmovo-team-title pcxs",
                 "链接": "/play-+/project-&&/+-1-1/",
                 "标题": "zmovo-team-title wapxs*>&&</a>",
                 "副标题": "<h4*>&&</h4>",
-                "线路数组": "style=\"margin: 3px 3px;\"&&/a></li>",
-                "播放数组": "<ul class=\"pagination\"&&</ul>",
-                "播放标题": "style=\"margin: 5px 5px;padding: 15px;\">&&</a>",
+                "跳转播放链接": "https://quuu.cc/jx.php?url=+link_pre*url\":\"&&\"",
+                "二次跳转播放链接": "Base64(\"url\"*\"&&\"[替换:\\*>>9#->>1#\\&>>5])",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录$21",
-                "分类url": "https://www.sstv.pw/vodshow-{cateId}/page/{catePg}/?wd=;;yk"
+                "分类url": "https://www.sstv.pw/vodshow-{cateId}/page/{catePg}/?wd=;;vayk"
             }
         },
         {
@@ -508,7 +494,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:http://tv.cpkey.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "蚂蚁",
@@ -814,7 +800,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.juo.cc/leibiao/{cateId}-{area}---{lang}----{catePg}---{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "蜜蜂影院",
@@ -825,7 +811,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.juo.cc/leibiao/{cateId}-{class}---{area}----{catePg}---{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "🍚饭团影院",
@@ -836,7 +822,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.fantuanhd.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_☕Kunyu77",
@@ -858,7 +844,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://hibady.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "YQK_spider",
@@ -910,7 +896,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.doucj.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_xBPQ_🍔两个BT",
@@ -941,7 +927,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/IptvSource/master/%E7%B4%A0%E7%99%BD%E7%99%BD.txt",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "极速资源xl",
@@ -1023,7 +1009,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://10000.mom/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "柒牌影视",
@@ -1034,7 +1020,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.7pw.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "快看影院",
@@ -1045,7 +1031,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "333影院",
@@ -1056,7 +1042,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.ylwt33.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XYQHiker_cokemv",
@@ -1128,7 +1114,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./视觉影院.json",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XYQHiker_星哥影院",
@@ -1349,7 +1335,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./厂长影视.json",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XBPQ_凌云影院",
@@ -1361,7 +1347,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./凌云影视.json",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "量子资源",
@@ -1392,7 +1378,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.dy511.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "超多影视",
@@ -1403,7 +1389,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://chaoduo.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "云播影视",
@@ -1414,7 +1400,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "神马影院",
@@ -1425,7 +1411,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.smdyy.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "光年影视",
@@ -1436,7 +1422,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.gntv.club/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "温妮影视",
@@ -1447,7 +1433,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://1080p.one/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "双十",
@@ -1458,7 +1444,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "免嗅:1,分类url:https://www.1010dy4.com/show/{cateId}//area/{area}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "嗯哩嗯哩",
@@ -1469,7 +1455,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://enlienli.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XBiu_广场舞",
@@ -1624,7 +1610,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/IptvSource/master/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86.json",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XBPQ_尘落影视",
@@ -1636,7 +1622,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./尘落.json",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XYQHiker_看看影院",
@@ -1670,7 +1656,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://glot.io/snippets/gge1oqtgxy/raw/lgg.txt",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XYQHiker_不休",
@@ -1798,7 +1784,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XBPQ_电视直播2",
@@ -1809,7 +1795,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"线路合并\":\"1\"}",
-            "jar": "./XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"
+            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "T4-yinyuetai",
