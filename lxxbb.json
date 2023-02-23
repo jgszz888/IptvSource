@@ -32,7 +32,7 @@
             "name": "4K追番",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "播放数组": "class=\"module-play-list-content&&</div>",
                 "跳转播放链接": "https://feifan.jiketv.com/api/?url=+vod_class*url\":\"&&\"",
@@ -47,7 +47,7 @@
             "name": "🍼视觉",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
                 "分类url": "https://www.6080dy2.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;val",
@@ -105,20 +105,21 @@
         },
         {
             "key": "速搜影院",
-            "name": "️✈️速搜",
+            "name": "️🐙️速搜影院",
             "type": 3,
             "api": "XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zz_1.jar;md5;9e86cdb778918b65275d0e36c92451fa",
             "ext": {
                 "数组": "zmovo-full-banner-bg2&&zmovo-team-title pcxs",
                 "链接": "/play-+/project-&&/+-1-1/",
                 "标题": "zmovo-team-title wapxs*>&&</a>",
                 "副标题": "<h4*>&&</h4>",
-                "跳转播放链接": "https://quuu.cc/jx.php?url=+link_pre*url\":\"&&\"",
-                "二次跳转播放链接": "Base64(\"url\"*\"&&\"[替换:\\*>>9#->>1#\\&>>5])",
+                "线路数组": "style=\"margin: 3px 3px;\"&&/a></li>",
+                "播放数组": "<ul class=\"pagination\"&&</ul>",
+                "播放标题": "style=\"margin: 5px 5px;padding: 15px;\">&&</a>",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录$21",
-                "分类url": "https://www.sstv.pw/vodshow-{cateId}/page/{catePg}/?wd=;;vayk"
-            }
+                "分类url": "https://www.sstv.pw/vodshow-{cateId}/page/{catePg}/?wd=;;yk"
+            },
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zz_1.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_search_云镜搜",
@@ -127,7 +128,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "api": "csp_XBPQ",
             "ext": "请求头:电脑,搜索url:https://v.t-ui.cn/index.php/vod/search.html?wd={wd};;Tkmva,跳转播放链接:https://v.t-ui.cn/addons/dp/player/dp.php?key=0&+&id=+\"id\":\"&&\"+&url=+link_pre*url\":\"&&\",线路数组:<a class=\"swiper-slide\"><i&&</a>,二次跳转播放链接: \"url\"*\"&&\""
         },
@@ -156,7 +157,7 @@
             "name": "🐻um猫",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "主页url": "https://www.umkan.cc",
                 "分类": "剧集$2#电影$1#动漫$4#综艺$3",
@@ -207,7 +208,7 @@
             "name": "98影院(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -230,7 +231,7 @@
             "type": 3,
             "playerType": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "首页": "600",
                 "主页url": "https://gitcafe.net/alipaper/home.json",
@@ -273,7 +274,7 @@
             "name": "🐙️星空影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -285,7 +286,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "数组": "href=\"/vodde&&</a>",
                 "链接": "/voddetail+tail&&\"",
@@ -302,7 +303,7 @@
             "name": "☁️天空",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "主页url": "https://tkznp.com",
                 "二次截取": "class=\"module-items&&class=\"fixedGroup",
@@ -396,7 +397,7 @@
             "name": "90rc影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "https://www.90r.cc/vodtype/{cateId}-{catePg}.html;;v",
                 "分类": "美剧$oumeiju#电影$dianying#剧集$jiju#综艺$zongyi#动漫$dongman",
@@ -425,7 +426,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "首页": "华语电视",
                 "分类url": "https://gitcafe.net/alipaper/data/{cateId}.json",
@@ -442,7 +443,7 @@
             "name": "🐷乐猪｜XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": "分类url:http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_0_{year}__{area}_.html,线路数组:[排序:1.在线视频 (支持手机)7>1.在线视频 (支持手机)6>1.在线视频 (支持手机)5>1.在线视频 (支持手机)4>1.在线视频 (支持手机)3>1.在线视频 (支持手机)2>1.在线视频 (支持手机)1>1.在线视频 (支持手机)]"
         },
         {
@@ -496,7 +497,7 @@
                 "二次跳转播放链接": "https://www.waijumi.com/vip/api.php;post;url=+\"url\"*\"&&\"+&ac=jx",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             },
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "xcys",
@@ -563,7 +564,7 @@
             "name": "🍭吼吼",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "主页url": "https://www.hoho.tv",
                 "分类": "电影&连续剧&综艺&动漫&纪录片",
@@ -588,7 +589,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "http://v.yemays.tk/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;v",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
@@ -608,7 +609,7 @@
             "searchable": 1,
             "playerType": "2",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/renren.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
         },
         {
             "key": "csp_XBPQ白嫖者",
@@ -633,7 +634,7 @@
             "name": "🌹青年",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "https://qny4.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;val",
                 "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Cookie$mx_style=black; PHPSESSID=tduovn6tiajsroigk61sc427oa; showBtn=true",
@@ -647,7 +648,7 @@
             "name": "️🍧人人影院",
             "type": 3,
             "api": "XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "https://www.rrets.cc/vodshow-{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/;;val",
                 "跳转播放链接": "https://www.rrets.cc/player/index.php?url=+link_pre*url\":\"&&\"",
@@ -661,7 +662,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "https://www.lanhuatv.com/vodshow/{cateId}--------{catePg}---.html;;val",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
@@ -685,7 +686,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "https://dyxs12.com/pianku-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;v",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
@@ -714,7 +715,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "https://www.freeok.vip/vodshow/{cateId}--------{catePg}---.html;;val",
                 "跳转播放链接": "https://player.freeok.vip/?url=+Base64(vod_class*url\":\"&&\")",
@@ -727,7 +728,7 @@
             "name": "🎈片库",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "分类url": "https://www.piaku.cc/list/{cateId}-{area}-{by}------{catePg}---{year}//;;v",
                 "搜索url": "https://www.piaku.cc/s/{wd}----------1---/",
@@ -771,7 +772,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "filterable": 1,
             "ext": "./8K影视.json"
         },
@@ -782,7 +783,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "filterable": 1,
             "ext": "./LIBVIO.json"
         },
@@ -1724,7 +1725,7 @@
             "name": "🐈猫咪",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;fa36796ebcc7f6e1ac8c0004c636f991",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "主页url": "https://fositv.com",
                 "数组": "class=\"myui-vodlist__thumb&&</a>",
