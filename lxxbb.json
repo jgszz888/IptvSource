@@ -108,6 +108,7 @@
             "name": "️🐙️速搜影院",
             "type": 3,
             "api": "XBPQ",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zz_1.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
             "ext": {
                 "数组": "zmovo-full-banner-bg2&&zmovo-team-title pcxs",
                 "链接": "/play-+/project-&&/+-1-1/",
@@ -118,8 +119,7 @@
                 "播放标题": "style=\"margin: 5px 5px;padding: 15px;\">&&</a>",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录$21",
                 "分类url": "https://www.sstv.pw/vodshow-{cateId}/page/{catePg}/?wd=;;yk"
-            },
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zz_1.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
+            }
         },
         {
             "key": "csp_search_云镜搜",
