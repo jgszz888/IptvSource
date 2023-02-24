@@ -1425,7 +1425,7 @@
             "jar": "./XBPQ.jar;md5;19eb3ff34679e6ee27ca2582b7f9e49f"
         },
         {
-            "key": "温妮影视",
+            "key": "wndb",
             "name": "🐟温妮点播",
             "type": 3,
             "api": "csp_XBPQ",
@@ -1436,7 +1436,7 @@
             "jar": "./XBPQ.jar;md5;19eb3ff34679e6ee27ca2582b7f9e49f"
         },
         {
-            "key": "温妮影视",
+            "key": "wnss",
             "name": "🐠温妮搜索",
             "type": 3,
             "api": "csp_XBPQ",
