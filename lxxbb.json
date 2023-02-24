@@ -97,7 +97,7 @@
             "api": "XBPQ",
             "jar": "https://124.222.63.31:30094/down/5JxXYREPlZ2K.jar;md5;9e86cdb778918b65275d0e36c92451fa",
             "ext": {
-                "数组": "zmovo-full-banner-bg1&&zmovo-team-title pcxs",
+                "数组": "zmovo-full-banner-bg2&&zmovo-team-title pcxs",
                 "链接": "/play-+/project-&&/+-1-1/",
                 "标题": "zmovo-team-title wapxs*>&&</a>",
                 "副标题": "<h4*>&&</h4>",
@@ -1743,6 +1743,17 @@
                 "二次跳转播放链接": "https://play.xmaomi.top/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }
+        },
+                {
+            "key": "csp_xBPQ_大猫咪",
+            "name": "️大猫咪",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./大猫咪.json"
         },
         {
             "key": "csp_xBPQ_4kvm",
