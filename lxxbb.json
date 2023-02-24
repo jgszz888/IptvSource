@@ -80,17 +80,6 @@
             }
         },
         {
-            "key": "xcys",
-            "name": "✨爱影影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "免嗅:1,分类urlhttps://www.aiyingshis.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-            "jar": "./XBPQ.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6"
-        },
-        {
             "key": "速搜影院",
             "name": "️✈️速搜",
             "type": 3,
@@ -1744,16 +1733,15 @@
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }
         },
-                {
-            "key": "csp_xBPQ_大猫咪",
-            "name": "️大猫咪",
+        {
+            "key": "csp_XBiu_大猫咪",
+            "name": "大猫咪",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/zy6.jar;md5;06335aba2dcf02c71ce2ac693e12ffd6",
-            "playerType": 1,
+            "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./大猫咪.json"
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jgszz888/fywzdjgszz/main/%E5%A4%A7%E7%8C%AB%E5%92%AA.json"
         },
         {
             "key": "csp_xBPQ_4kvm",
