@@ -1426,7 +1426,18 @@
         },
         {
             "key": "温妮影视",
-            "name": "🐘温妮影视",
+            "name": "🐟温妮点播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "分类url:https://1080p.one/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html,跳转链接:/vodplay/+/voddetail/&&.html+-1-1.html,线路二次截取:<div class=\"swiper-wrapper cf\">&&</div>,线路数组:<a&&/a>,线路标题:\">&&<[替换:(>>👉#)>>空]+集♥,播放二次截取:listdh size\">&&</div>,播放数组:<ul class=\"cf&&</ul>,搜索后缀:/voddetail/",
+            "jar": "./XBPQ.jar;md5;19eb3ff34679e6ee27ca2582b7f9e49f"
+        },
+        {
+            "key": "温妮影视",
+            "name": "🐠温妮搜索",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
