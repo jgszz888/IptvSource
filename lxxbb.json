@@ -1273,18 +1273,6 @@
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
         {
-            "key": "csp_XYQHiker_90电影网",
-            "name": "🍻90电影网(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./90电影网.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
             "key": "csp_XYQHiker_看了么",
             "name": "🍻看了么(XYQH)",
             "type": 3,
@@ -1306,18 +1294,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./大猫咪.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_饭团",
-            "name": "🍻饭团(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./饭团影视.json",
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
         {
@@ -1354,30 +1330,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./野马.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_追剧达人",
-            "name": "🍻追剧达人(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./追剧达人.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_秋霞电影",
-            "name": "🍻秋霞电影(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./秋霞电影.json",
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
                 {
@@ -1476,7 +1428,7 @@
             "ext": "./野马.json",
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
-                {
+        {
             "key": "csp_XYQHiker_追剧达人",
             "name": "🍻追剧达人(XYQH)",
             "type": 3,
