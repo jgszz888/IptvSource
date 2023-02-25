@@ -1285,30 +1285,6 @@
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
         {
-            "key": "csp_XYQHiker_大猫咪",
-            "name": "🍻大猫咪(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./大猫咪.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_球天下",
-            "name": "🍻球天下(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./无插件直播.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
             "key": "csp_XYQHiker_布蕾影视",
             "name": "🍻布蕾影视(XYQH)",
             "type": 3,
@@ -1321,18 +1297,54 @@
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
         {
-            "key": "csp_XYQHiker_野马",
-            "name": "🍻野马(XYQH)",
+            "key": "csp_XYQHiker_白嫖者联盟",
+            "name": "🍻白嫖者联盟(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./野马.json",
+            "ext": "./白嫖者联盟.json",
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
-                {
+        {
+            "key": "csp_XYQHiker_真不卡",
+            "name": "🍻真不卡(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./真不卡.json",
+            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
+        },
+        {
+            "key": "csp_XYQHiker_um",
+            "name": "🍻um(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./um.json",
+            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
+        },
+        {
+            "key": "csp_XYQHiker_蕃茄影院",
+            "name": "🍻蕃茄影院(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./蕃茄.json",
+            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
+        },
+        {
             "key": "csp_XYQHiker_看片",
             "name": "🍻看片(XYQH)",
             "type": 3,
@@ -1342,30 +1354,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./看片啦.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_90电影网",
-            "name": "🍻90电影网(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./90电影网.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_看了么",
-            "name": "🍻看了么(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./看了么.json",
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
         {
@@ -1402,18 +1390,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./无插件直播.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_布蕾影视",
-            "name": "🍻布蕾影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./布蕾.json",
             "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
         {
@@ -1754,54 +1730,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "{\r\n  \"站名\": \"影视之家\",\r\n  \"热门推荐\": \"30\",\r\n  \"分类url\": \"https://www.yszj.tv/vodshow/{cateId}--{by}------{catePg}---{year}.html\",\r\n  \"分类\": \"电影$1#电视剧$2#综艺$3#动漫$4#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#泰剧$20\",\r\n  \"副标题\": \"pic-text text-right\\\"><b>&&</b>\",\r\n  \"简介\": \"display: none;\\\">&&</span>\",\r\n  \"线路数组\": \"dpplay pull-right\\\">&&</ul>\",\r\n  \"线路标题\": \"data-toggle=\\\"tab\\\">&&</a>[排序:极速>*]\",\r\n  \"筛选\": \"1\",\r\n  \"地区\": \"0\",\r\n  \"剧情\": \"0\",\r\n  \"年份\": \"2000-2022\",\r\n  \"排序\": \"时间排序$time#人气排序$hits#评分排序$score\"\r\n},\r\n"
-        },
-        {
-            "key": "csp_XYQHiker_白嫖者联盟",
-            "name": "🍻白嫖者联盟(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./白嫖者联盟.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_真不卡",
-            "name": "🍻真不卡(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./真不卡.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_um",
-            "name": "🍻um(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./um.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
-        },
-        {
-            "key": "csp_XYQHiker_蕃茄影院",
-            "name": "🍻蕃茄影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./蕃茄.json",
-            "jar": "./xyq.jar;md5;0a9b2c352629e22c4349a244cd21964d"
         },
         {
             "key": "csp_XBPQ_诺讯影院",
